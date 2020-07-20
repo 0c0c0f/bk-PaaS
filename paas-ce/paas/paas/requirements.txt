@@ -12,7 +12,7 @@ PyYAML==5.3.1
 Pillow==7.2.0
 gevent==20.6.2
 pytz==2020.1
-enum34==1.1.6
+enum34==1.1.10
 
 # for esb
 jinja2==2.11.2
