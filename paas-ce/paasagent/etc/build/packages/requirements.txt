@@ -23,6 +23,6 @@ suds==0.4
 urllib3==1.25.9
 amqp==2.6.0
 anyjson==0.3.3
-billiard==3.3.0.23
+billiard==3.6.3.0
 pytest-runner==2.8
 setuptools_scm==1.11.1
