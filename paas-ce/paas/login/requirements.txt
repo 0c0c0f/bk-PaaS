@@ -8,5 +8,5 @@ uWSGI==2.0.19.1
 xlrd==1.0.0
 xlwt==1.1.2
 gevent==20.6.2
-pytz==2016.6.1
+pytz==2020.1
 python-dateutil==2.6.0
