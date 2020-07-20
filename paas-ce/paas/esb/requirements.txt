@@ -2,7 +2,7 @@
 
 Django==3.0.8
 requests==2.24.0
-jinja2==2.8
+jinja2==2.11.2
 sqlalchemy==1.0.12
 pymysql==0.10.0
 redis==2.10.5
