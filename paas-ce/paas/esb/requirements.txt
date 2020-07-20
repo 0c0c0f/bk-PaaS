@@ -16,7 +16,7 @@ pycrypto==2.6.1
 markdown==3.2.2
 gunicorn==20.0.4
 uWSGI==2.0.19.1
-PyYAML==5.1
+PyYAML==5.3.1
 
 # for fta
 arrow==0.10.0
