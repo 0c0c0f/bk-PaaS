@@ -21,4 +21,4 @@ Markdown==3.2.2
 pygments==2.6.1
 
 # for test
-mock==2.0.0
+mock==4.0.2
