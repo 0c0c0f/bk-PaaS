@@ -3,7 +3,7 @@ PyMySQL==0.10.0
 requests==2.24.0
 celery==4.4.6
 kombu==4.6.11
-django-celery==3.2.1
+django-celery==3.3.1
 redis==3.5.3
 httplib2==0.9.1
 xlrd==1.2.0
