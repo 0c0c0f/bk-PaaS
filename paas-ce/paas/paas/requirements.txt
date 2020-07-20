@@ -5,7 +5,7 @@ pycrypto==2.6.1
 requests==2.24.0
 gunicorn==20.0.4
 uWSGI==2.0.19.1
-elasticsearch==2.3.0
+elasticsearch==7.8.0
 pymysql==0.10.0
 redis==3.5.3
 PyYAML==5.3.1
