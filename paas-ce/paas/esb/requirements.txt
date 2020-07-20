@@ -8,7 +8,7 @@ pymysql==0.10.0
 redis==3.5.3
 thrift==0.13.0
 gevent==20.6.2
-pytz==2016.6.1
+pytz==2020.1
 
 # encrypt
 pycrypto==2.6.1
