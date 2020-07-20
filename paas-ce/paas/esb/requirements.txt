@@ -1,7 +1,7 @@
 # pkg used in prod env should be added to requirements_prod.txt also
 
 Django==3.0.8
-requests==2.21.0
+requests==2.24.0
 jinja2==2.8
 sqlalchemy==1.0.12
 pymysql==0.10.0
