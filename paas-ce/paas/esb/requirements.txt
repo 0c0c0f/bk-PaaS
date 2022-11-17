@@ -3,11 +3,11 @@
 Django==1.8.11
 requests==2.21.0
 jinja2==2.8
-sqlalchemy==1.0.12
+sqlalchemy==1.2.18
 pymysql==0.6.7
 redis==2.10.5
 thrift==0.10.0
-gevent==1.1.2
+gevent==1.2a1
 pytz==2016.6.1
 
 # encrypt
