@@ -1,25 +1,25 @@
 # pkg used in prod env should be added to requirements_prod.txt also
 
-Django==1.8.11
-requests==2.21.0
-jinja2==2.8
-sqlalchemy==1.0.12
-pymysql==0.6.7
-redis==2.10.5
-thrift==0.10.0
-gevent==1.1.2
-pytz==2016.6.1
+Django==3.0.8
+requests==2.24.0
+jinja2==2.11.2
+sqlalchemy==1.3.18
+pymysql==0.10.0
+redis==3.5.3
+thrift==0.13.0
+gevent==20.6.2
+pytz==2020.1
 
 # encrypt
 pycrypto==2.6.1
 
-markdown==2.6.6
-gunicorn==19.9.0
-uWSGI==2.0.13.1
-PyYAML==5.1
+markdown==3.2.2
+gunicorn==20.0.4
+uWSGI==2.0.19.1
+PyYAML==5.3.1
 
 # for fta
-arrow==0.10.0
+arrow==0.15.7
 
 # for apidoc
-Pygments==2.1.3
+Pygments==2.6.1
