@@ -1,5 +1,5 @@
 Django==1.8.11
-PyMySQL==0.6.7
+PyMySQL==1.1.2
 requests==2.21.0
 celery==3.1.18
 kombu==3.0.35
