@@ -2,7 +2,7 @@ Django==1.8.11
 PyMySQL==0.6.7
 requests==2.21.0
 celery==3.1.18
-kombu==3.0.35
+kombu==5.6.2
 django-celery==3.2.1
 redis==2.10.5
 httplib2==0.9.1
