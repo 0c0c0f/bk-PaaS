@@ -11,7 +11,7 @@ xlwt==1.1.2
 Mako==1.0.4
 Jinja2==2.8
 MarkupSafe==0.23
-meld3==1.0.2
+meld3==2.0.1
 pbr==1.10.0
 pycrypto==2.6.1
 pytz==2016.6.1
