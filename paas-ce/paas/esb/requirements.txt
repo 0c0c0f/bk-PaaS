@@ -19,7 +19,7 @@ uWSGI==2.0.13.1
 PyYAML==5.1
 
 # for fta
-arrow==0.10.0
+arrow==1.4.0
 
 # for apidoc
 Pygments==2.1.3
