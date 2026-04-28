@@ -16,7 +16,7 @@ enum34==1.1.6
 
 # for esb
 jinja2==2.8
-django-bootstrap-form==3.2.1
+django-bootstrap-form==3.4
 Markdown==2.6.6
 pygments==2.1.3
 
