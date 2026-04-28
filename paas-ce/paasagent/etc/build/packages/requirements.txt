@@ -25,4 +25,4 @@ amqp==1.4.9
 anyjson==0.3.3
 billiard==3.3.0.23
 pytest-runner==2.8
-setuptools_scm==1.11.1
+setuptools_scm==10.0.5
