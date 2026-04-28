@@ -13,7 +13,7 @@ pytz==2016.6.1
 # encrypt
 pycrypto==2.6.1
 
-markdown==2.6.6
+markdown==3.10.2
 gunicorn==19.9.0
 uWSGI==2.0.13.1
 PyYAML==5.1
