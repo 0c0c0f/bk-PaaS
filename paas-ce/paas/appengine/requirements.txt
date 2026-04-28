@@ -3,4 +3,4 @@ pymysql==0.6.7
 requests==2.21.0
 gunicorn==19.9.0
 uWSGI==2.0.13.1
-gevent==1.1.2
+gevent==26.4.0
