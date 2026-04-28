@@ -10,7 +10,7 @@ pymysql==0.6.7
 redis==2.10.5
 PyYAML==5.1
 Pillow==3.4.2
-gevent==1.1.2
+gevent==26.4.0
 pytz==2016.6.1
 enum34==1.1.6
 
