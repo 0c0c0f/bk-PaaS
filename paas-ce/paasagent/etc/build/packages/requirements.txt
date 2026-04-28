@@ -16,7 +16,7 @@ pbr==1.10.0
 pycrypto==2.6.1
 pytz==2016.6.1
 gunicorn==19.6.0
-six==1.10.0
+six==1.17.0
 SQLAlchemy==1.0.12
 stevedore==1.17.1
 suds==0.4
